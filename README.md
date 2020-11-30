@@ -1,2 +1,2 @@
-# advent-of-code-18
+# AOC-2018
 My solutions for advent of code 2018
